@@ -1,0 +1,4 @@
+1 -clone from https://github.com/AlejandroSZIOSA/vinilo-volador-backend-JS.git
+2 - in the terminal /project-directory runs this command. 
+npm install
+3- run npm start

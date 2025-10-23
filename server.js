@@ -115,5 +115,5 @@ app.post("/me/accounts/transactions", (req, res) => {
 
 // Starta servern
 app.listen(PORT, () => {
-  console.log(`Bankens backend körs på http://localhost:${PORT}`);
+  console.log(`Vinilo-Volador backend körs på http://localhost:${PORT}`);
 });
